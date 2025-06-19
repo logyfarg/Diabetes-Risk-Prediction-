@@ -17,3 +17,26 @@ This project uses a logistic regression model to predict whether a person is lik
 
 1. Clone the repo and navigate to the folder
 2. Install dependencies:
+3. Run the model:
+   ## 📂 Folder Structure
+   diabetes_predictor/
+├── diabetes_predictor.py
+├── requirements.txt
+├── README.md
+└── data/
+└── diabetes.csv
+
+## 💡 Features Used
+
+- Pregnancies
+- Glucose
+- Blood Pressure
+- Skin Thickness
+- Insulin
+- BMI
+- Diabetes Pedigree Function
+- Age
+
+## 👩‍💻 Author
+
+Logina Mahmoud Farg — Mechatronics Engineer & ML Enthusiast
